@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_Manager</string>
+    <string name="compose_first_text">All tasks completed</string>
+    <string name="compose_second_text">Nice work!</string>
+</resources>
