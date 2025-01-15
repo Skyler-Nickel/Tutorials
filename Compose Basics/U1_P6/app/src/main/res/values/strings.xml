@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Skyler Nickel</string>
+    <string name="description">Android Developer Novice</string>
+    <string name="phoneNumber">(425)123-1234</string>
+    <string name="social">@fakeSocial123</string>
+    <string name="email">skyler@fakeemail.com</string>
+</resources>
